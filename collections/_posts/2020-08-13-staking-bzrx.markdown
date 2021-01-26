@@ -13,7 +13,7 @@ Staking is an integral part of the governance process of the bZxDAO. Staking can
 
 ## What can you stake?
 
-(Insert image of staking dashboard)
+![](images/Staking%Dashbord.png)
 
 There are three tokens that can be staked: BZRX, iBZRX, and LP/BPT tokens.
 
@@ -260,9 +260,9 @@ Notice only when every single BZRX token is staked will the reward for staking B
 
 
 
-The BZRX, vBZRX, 3CRV, and BZRX LP tokens all interact to create a dynamic system of incentives, governance mechanisms, and capital flows. Like everything else in the bZx ecosystem, we strive to maximize ease-of-use and design the best user experience for our community. Staking will be no different. With the bZx [Staking Dashboard](https://staking.bzx.network/), you will be able to stake with one click. Unstake with one click. And claim rewards in one click. The dashboard will even let you exchange your vBZRX for BZRX tokens.
+The BZRX, vBZRX, 3CRV, and BZRX LP tokens all interact to create a dynamic system of incentives, governance mechanisms, and capital flows. Like everything else in the bZx ecosystem, we strive to maximize ease-of-use and design the best user experience for our community. Staking will be no different. With the bZx [Staking Dashboard](https://staking.bzx.network/), you will be able to stake with one click. Unstake with one click. And claim rewards in one click. The dashboard will even let you exchange your vBZRX for BZRX tokens as they vest.
 
-There are three ways to stake and all three ways can be accessed via the Staking Dashboard. All three methods will allow you to earn rewards and participate in governance. All three methods earn rewards in non-BZRX assets.
+There are three ways to stake and all three ways can be accessed via the Staking Dashboard. All three methods will allow you to earn rewards and participate in governance. All three methods earn rewards in BZRX and stablecoins.
 
 
 <table>
@@ -332,7 +332,7 @@ There are three ways to stake and all three ways can be accessed via the Staking
 *   Approve token spend
 
 
-(Insert image)
+(Approve token spend)
 
 To be able to stake you will need to first approve the tokens for use on the staking dashboard. You will need to do this for each stakeable asset in your wallet.
 Connect your wallet to the dashboard and individually approve each asset you wish to stake via your web3 wallet.
@@ -340,21 +340,33 @@ Connect your wallet to the dashboard and individually approve each asset you wis
 
 *   Stake
 
-(Insert image)
+(Staking slider)
 
 After you have approved your tokens for staking you can select the amount with which you wish to stake and click "Stake" to push a transaction to your web3 wallet. As with all transactions ensure you are using appropriate settings for gas fees. 
 
 After the transaction has confirmed the balance will move from your wallet to the staking contract and this will reflect in the staking dashboard
 
-(Insert image)
+(Staked)
 
 Congratulations! You're now staking!
 
 *   Claiming rewards
 
+(Claim page top half)
+
 Click over to the rewards tab so see your rewards accruing. To claim available staking rewards simply click claim and approve the transaction in your wallet. This will withdraw the available 3CRV and BZRX tokens to your wallet. If you wish to restake your BZRX in the same transaction for compounding effects simple select the checkbox below the claim button. 
 
 Time locked rewards displayed below staking rewards are the rewards earned through the staking of vBZRX. These will vest to you over time and become available in your staking rewards balance.
 
-(Image)
+*   User rewards
+
+(User rewards) 
+
+User rewards are a part of the incentive program mentioned earlier in this article. Your accrued rewards from using the protocol will be accessible here until claimed.
+
+*   Vested BZRX 
+
+(vBZRX)
+
+Any vBZRX in your wallet that aren't staked can be claimed from here as they vest over time. 
 
