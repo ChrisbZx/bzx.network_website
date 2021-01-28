@@ -13,7 +13,7 @@ Staking is an integral part of the governance process of the bZxDAO. Staking can
 
 ## What can you stake?
 
-![](images/Staking%Dashbord.png)
+![](/images/blog/Staking_Dashbord.png)
 
 There are three tokens that can be staked: BZRX, iBZRX, and LP/BPT tokens.
 
