@@ -8,7 +8,7 @@ metadescription: "Staking is an integral part of the governance process of the b
 intro: "Staking is an integral part of the governance process of the bZxDAO"
 ---
 
-Staking is an integral part of the governance process of the bZxDAO. Staking can be thought of as very similar to delegating votes. When you stake your tokens, you are staking those tokens to an address and empowering them as a representative. Those representatives can then propose and vote on governance proposals. Staking will go live later this month but the full bZxDAO will come at a later date. An interim DAO will be established in the mean time which we will describe in a future post.
+Staking is an integral part of the governance process of the bZxDAO. Staking can be thought of as very similar to delegating votes. When you stake your tokens, you are staking those tokens to an address and empowering them as a representative. Those representatives can then propose and vote on governance proposals. The new staking module will be going live in the very near future but the full bZxDAO will come at a later date. An [interim governance portal](https://signal.bzx.network/) utilising snapshots will be established in the mean time which we will describe in a future post.
 
 
 ## What can you stake?
@@ -332,7 +332,7 @@ There are three ways to stake and all three ways can be accessed via the Staking
 *   Approve token spend
 
 
-(Approve token spend)
+![](/images/blog/Staking_Dashbord.png)
 
 To be able to stake you will need to first approve the tokens for use on the staking dashboard. You will need to do this for each stakeable asset in your wallet.
 Connect your wallet to the dashboard and individually approve each asset you wish to stake via your web3 wallet.
@@ -340,19 +340,19 @@ Connect your wallet to the dashboard and individually approve each asset you wis
 
 *   Stake
 
-(Staking slider)
+![](/images/blog/Sliders.png)
 
 After you have approved your tokens for staking you can select the amount with which you wish to stake and click "Stake" to push a transaction to your web3 wallet. As with all transactions ensure you are using appropriate settings for gas fees. 
 
 After the transaction has confirmed the balance will move from your wallet to the staking contract and this will reflect in the staking dashboard
 
-(Staked)
+![](/images/blog/Staked.png)
 
 Congratulations! You're now staking!
 
 *   Claiming rewards
 
-(Claim page top half)
+![](/images/blog/Rewards_page.png) 
 
 Click over to the rewards tab so see your rewards accruing. To claim available staking rewards simply click claim and approve the transaction in your wallet. This will withdraw the available 3CRV and BZRX tokens to your wallet. If you wish to restake your BZRX in the same transaction for compounding effects simple select the checkbox below the claim button. 
 
@@ -360,13 +360,15 @@ Time locked rewards displayed below staking rewards are the rewards earned throu
 
 *   User rewards
 
-(User rewards) 
-
 User rewards are a part of the incentive program mentioned earlier in this article. Your accrued rewards from using the protocol will be accessible here until claimed.
 
 *   Vested BZRX 
 
-(vBZRX)
+This section will display the amount of BZRX that has vested from your wallets vBZRX holdings. They are claimable at any time. 
 
-Any vBZRX in your wallet that aren't staked can be claimed from here as they vest over time. 
 
+## Course of action forthwith
+
+There will be a week from the launch of the updated staking module within which staking rewards will be held for later dispersal to ensure all users have time to restake their assets in the new module. At the conclusion of the week all collected fees will be dispersed accordingly. 
+
+Previously earned staking rewards will be claimable in the coming week pending the approval of a governance proposal via our [snapshot page.](https://signal.bzx.network/)
