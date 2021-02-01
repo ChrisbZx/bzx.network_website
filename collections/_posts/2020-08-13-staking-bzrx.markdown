@@ -354,7 +354,7 @@ Congratulations! You're now staking!
 
 ![](/images/blog/Rewards_page.png) 
 
-Click over to the rewards tab so see your rewards accruing. To claim available staking rewards simply click claim and approve the transaction in your wallet. This will withdraw the available 3CRV and BZRX tokens to your wallet. If you wish to restake your BZRX in the same transaction for compounding effects simple select the checkbox below the claim button. 
+Click over to the rewards tab so see your rewards and vested BZRX accruing. To claim available staking rewards simply click claim and approve the transaction in your wallet. This will withdraw the available 3CRV and BZRX tokens to your wallet. If you wish to restake your earned BZRX in the same transaction for a compounding effect simply select the checkbox below the claim button before proceeding.
 
 Time locked rewards displayed below staking rewards are the rewards earned through the staking of vBZRX. These will vest to you over time and become available in your staking rewards balance.
 
