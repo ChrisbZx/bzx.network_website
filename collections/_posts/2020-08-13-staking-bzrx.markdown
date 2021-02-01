@@ -27,7 +27,7 @@ iBZRX is the [iToken](https://bzx.network/itokens) equivalent of BZRX that you r
 
 **LP/BPT Tokens**
 
-It is proposed that users can also stake LP/BPT tokens by depositing their BZRX into a Uniswap or Balancer pool. The eligable pool address is **0xe26a220a341eaca116bda64cf9d5638a935ae629**. Staking LP/BPT tokens can provide rewards in excess of simply staking BZRX. Not only will users earn fees from providing AMM liquidity, but LP/BPT tokens in most circumstances will receive a larger share of the fees than the same underlying BZRX would. This is because any LP/BPT tokens staked are assumed to represent the entire unstaked BZRX supply. This also means that as the staking participation rate approaches 100%, the rewards for staking LP/BPT tokens reaches parity with BZRX tokens.
+It is proposed that users can also stake LP/BPT tokens by depositing their BZRX into a Uniswap or Balancer pool. The eligible pool address is **0xe26a220a341eaca116bda64cf9d5638a935ae629**. Staking LP/BPT tokens can provide rewards in excess of simply staking BZRX. Not only will users earn fees from providing AMM liquidity, but LP/BPT tokens in most circumstances will receive a larger share of the fees than the same underlying BZRX would. This is because any LP/BPT tokens staked are assumed to represent the entire unstaked BZRX supply. This also means that as the staking participation rate approaches 100%, the rewards for staking LP/BPT tokens reaches parity with BZRX tokens.
 
 **vBZRX**
 
