@@ -13,7 +13,7 @@ Staking is an integral part of the governance process of the bZxDAO. Staking can
 
 ## What can you stake?
 
-![](/images/blog/Staking_Dashbord.png)
+![](/images/blog/Staking-Dashbord1.png)
 
 There are three tokens that can be staked: BZRX, iBZRX, and LP/BPT tokens.
 
@@ -332,7 +332,7 @@ There are three ways to stake and all three ways can be accessed via the Staking
 *   Approve token spend
 
 
-![](/images/blog/Staking_Dashbord.png)
+![](/images/blog/staking-dashboard1.png)
 
 To be able to stake you will need to first approve the tokens for use on the staking dashboard. You will need to do this for each stakeable asset in your wallet.
 Connect your wallet to the dashboard and individually approve each asset you wish to stake via your web3 wallet.
@@ -340,19 +340,19 @@ Connect your wallet to the dashboard and individually approve each asset you wis
 
 *   Stake
 
-![](/images/blog/Sliders.png)
+![](/images/blog/add-to-staking-balance1.png)
 
 After you have approved your tokens for staking you can select the amount with which you wish to stake and click "Stake" to push a transaction to your web3 wallet. As with all transactions ensure you are using appropriate settings for gas fees. 
 
 After the transaction has confirmed the balance will move from your wallet to the staking contract and this will reflect in the staking dashboard
 
-![](/images/blog/Staked.png)
+![](/images/blog/staking-dashboard-staked-balances1.png)
 
 Congratulations! You're now staking!
 
 *   Claiming rewards
 
-![](/images/blog/Rewards_page.png) 
+![](/images/blog/staking-dashboard-rewards1.png) 
 
 Click over to the rewards tab so see your rewards and vested BZRX accruing. To claim available staking rewards simply click claim and approve the transaction in your wallet. This will withdraw the available 3CRV and BZRX tokens to your wallet. If you wish to restake your earned BZRX in the same transaction for a compounding effect simply select the checkbox below the claim button before proceeding.
 
@@ -366,9 +366,3 @@ User rewards are a part of the incentive program mentioned earlier in this artic
 
 This section will display the amount of BZRX that has vested from your wallets vBZRX holdings. They are claimable at any time. 
 
-
-## Course of action forthwith
-
-There will be a week from the launch of the updated staking module within which staking rewards will be held for later dispersal to ensure all users have time to restake their assets in the new module. At the conclusion of the week all collected fees will be dispersed accordingly. 
-
-Previously earned staking rewards will be claimable in the coming week pending the approval of a governance proposal via our [snapshot page.](https://signal.bzx.network/)
