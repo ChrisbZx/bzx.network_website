@@ -8,7 +8,7 @@ metadescription: "Staking is an integral part of the governance process of the b
 intro: "Staking is an integral part of the governance process of the bZxDAO"
 ---
 
-Staking is an integral part of the governance process of the bZxDAO. Staking can be thought of as very similar to delegating votes. When you stake your tokens, you are staking those tokens to an address and empowering them as a representative. Those representatives can then propose and vote on governance proposals. The new staking module will be going live in the very near future but the full bZxDAO will come at a later date. An [interim governance portal](https://signal.bzx.network/) utilising snapshots will be established in the mean time which we will describe in a future post.
+Staking is an integral part of the governance process of the bZxDAO. Staking can be thought of as very similar to delegating votes. When you stake your tokens, you are staking those tokens to an address and empowering them as a representative. Those representatives can then propose and vote on governance proposals. The new staking module is now live but the full bZxDAO will come at a later date. An [interim governance portal](https://signal.bzx.network/) utilising snapshots has been established in the interim which we will describe in a future post.
 
 
 ## What can you stake?
